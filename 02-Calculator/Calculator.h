@@ -1,8 +1,8 @@
-// Calculadora.h
+// Calculator.h
 
-namespace Calculadora
+namespace Calculator
 {
-    class MyCalculadora
+    class MyCalculator
     {
     public:
         // Returns a + b
